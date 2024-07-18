@@ -10,7 +10,11 @@ Check out my [Devpost Profile](https://devpost.com/carlahau8?ref_content=user-po
 - 2x Hackathon Winner 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui,tailwind,django,firebase,figma,photoshop,git,github,netlify,npm,vscode" />
+  </a>
+</p>
 
 <!--
 **carlahauu/carlahauu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
