@@ -1,4 +1,4 @@
-!(https://media.discordapp.net/attachments/407710496670875661/1263832395224973312/your_cool_intro.gif?ex=669bab23&is=669a59a3&hm=e3fbdb407459f2a610909d43e0f5679ea975b34287baea4c8b71fef476ed72cd&)
+<img src="https://media.discordapp.net/attachments/407710496670875661/1263832395224973312/your_cool_intro.gif?ex=669bab23&is=669a59a3&hm=e3fbdb407459f2a610909d43e0f5679ea975b34287baea4c8b71fef476ed72cd&" />
 
 ## Nice to meet you, I am Carla Hau! 👋
 
