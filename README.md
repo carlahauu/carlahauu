@@ -14,7 +14,12 @@ Check out my [Devpost Profile](https://devpost.com/carlahau8?ref_content=user-po
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui,tailwind,django,firebase,figma,photoshop,git,github,netlify,npm,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui,tailwind" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,firebase,figma,photoshop,git,github,netlify,npm,vscode" />
   </a>
 </p>
 
