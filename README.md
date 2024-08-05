@@ -12,7 +12,7 @@ Check out my [Devpost Profile](https://devpost.com/carlahau8?ref_content=user-po
 - 2x Hackathon Winner 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui,tailwind" />
   </a>
