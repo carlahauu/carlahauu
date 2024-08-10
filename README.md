@@ -11,7 +11,7 @@
 Check out my [Devpost Profile](https://devpost.com/carlahau8?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) for more details about my projects and achievements! 
 - 2x Hackathon Winner 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui,tailwind" />
