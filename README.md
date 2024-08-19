@@ -19,7 +19,7 @@ Check out my [Devpost Profile](https://devpost.com/carlahau8?ref_content=user-po
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,firebase,figma,photoshop,git,github,netlify,npm,vscode" />
+    <img src="https://skillicons.dev/icons?i=django,firebase,figma,photoshop,git,github,netlify,vscode" />
   </a>
 </p>
 
