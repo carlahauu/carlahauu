@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Nice%20to%20meet%20you%20!%20👋&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+![img](https://64.media.tumblr.com/9ffec1adab1c3844181eb087a51c8201/tumblr_o631994HlL1vnqmpbo1_500.gif)
 
 ## Nice to meet you, I am Carla Hau! 👋
 
