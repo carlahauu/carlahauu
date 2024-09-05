@@ -6,7 +6,9 @@
 
 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/carla-hau/)!  
 
-🖥️ I am attending hackathons and applying my knowledge in website development and more to create solutions to real-world problems.   
+🖥️ I am attending hackathons and applying my knowledge in website development and more to create solutions to real-world problems. 
+
+Check out my [personal portfolio](https://www.carlahau.com) to learn more about me, my favorite personal projects, and get in contact with me!
 
 Check out my [Devpost Profile](https://devpost.com/carlahau8?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) for more details about my hackathon projects and achievements! 
 - 3x Hackathon Winner 
