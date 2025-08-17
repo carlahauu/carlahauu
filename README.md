@@ -8,18 +8,6 @@
 
 Check out my [personal portfolio](https://www.carlahau.com) to learn more about me, my favorite personal projects, and to get in contact with me! 
 
-<h3 align="left">Languages and Tools:</h3> 
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui,tailwind" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,firebase,figma,photoshop,git,github,netlify,vscode" />
-  </a>
-</p>
-
 <!--
 **carlahauu/carlahauu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
