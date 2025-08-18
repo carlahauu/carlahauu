@@ -3,10 +3,9 @@
 ## nice to meet you, i'm carla hau! 👋
 
 tdlr: 
-- 18 years old
+- studying cs @ uc riverside (expected graduation: june 2028)
 - SDE intern @ amazon web services (aws)
 - prev @ constellation technologies (now known as the nova accelerator)
-- studying cs @ uc riverside
 - recently:
   - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the Pomodoro technique!
   - created an updated version of my [personal portfolio website](https://www.carlahau.com)
