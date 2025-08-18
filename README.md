@@ -4,8 +4,13 @@
 
 tdlr: 
 - studying cs @ uc riverside (expected graduation: june 2028)
-- SDE intern @ amazon web services (aws)
-- prev @ constellation technologies (now known as the nova accelerator)
+- work experience: 
+  - sde intern @ amazon web services (aws)
+  - prev @ constellation technologies (now known as the nova accelerator)
+- extracurricular activities:
+  - lead software engineer @ cutie hack 2025
+- community involvement:
+  - amazon future engineer scholarship ambassador
 - recently:
   - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the Pomodoro technique!
   - created an updated version of my [personal portfolio website](https://www.carlahau.com)
