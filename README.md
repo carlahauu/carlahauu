@@ -1,4 +1,4 @@
-![img](https://64.media.tumblr.com/9ffec1adab1c3844181eb087a51c8201/tumblr_o631994HlL1vnqmpbo1_500.gif)
+<img src="https://64.media.tumblr.com/9ffec1adab1c3844181eb087a51c8201/tumblr_o631994HlL1vnqmpbo1_500.gif" width="300px">
 
 ## nice to meet you, i'm carla hau! 👋
 
