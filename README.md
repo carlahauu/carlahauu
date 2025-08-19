@@ -12,7 +12,7 @@ tdlr:
 - community involvement:
   - amazon future engineer scholarship ambassador
 - recently:
-  - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the Pomodoro technique!
+  - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the pomodoro technique!
   - created an updated version of my [personal portfolio website](https://www.carlahau.com)
 
 links: [personal website](https://www.carlahau.com) - [linkedin](https://www.linkedin.com/in/carla-hau/)
