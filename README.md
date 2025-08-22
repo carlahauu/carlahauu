@@ -6,7 +6,7 @@ tdlr:
 - studying cs @ uc riverside (expected graduation: june 2028)
 - work experience: 
   - sde intern @ amazon web services (aws)
-  - prev @ constellation technologies (now known as the nova accelerator)
+  - frontend development intern at constellation technologies (now known as the nova accelerator)
 - extracurricular activities:
   - lead software engineer @ cutie hack 2025
 - community involvement:
