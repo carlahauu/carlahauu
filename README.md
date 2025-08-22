@@ -12,7 +12,8 @@ tdlr:
 - community involvement:
   - amazon future engineer scholarship ambassador
 - recently:
-  - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the pomodoro technique! reached 7000+ views. 
+  - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the pomodoro technique! reached 7000+ views.
+  - created [fotolab](http://fotolab.carlahau.com), an online photo booth, inspired by trending photo booths like Life4Cuts, that lets you capture and download your own photo strips in seconds.
   - created an updated version of my [personal portfolio website](https://www.carlahau.com)
 
 links: [personal website](https://www.carlahau.com) - [linkedin](https://www.linkedin.com/in/carla-hau/)
