@@ -17,7 +17,6 @@ tdlr:
       - collaborated with summer olympics 2025 social event hosted by divisions and districts within key club international, including division 10 south, division 10 north, division 35 west, and kiwin’s goldstone.
       - collaborated with the tartan seoul dance team to create branded photo strips for team members during their workshop at k-play fest oc.
   - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the pomodoro technique! reached 7600+ views.
-  - created [fotolab](http://fotolab.carlahau.com), an online photo booth, inspired by trending photo booths like Life4Cuts, that lets you capture and download your own photo strips in seconds.
   - created an updated version of my [personal portfolio website](https://www.carlahau.com)
 
 links: [personal website](https://www.carlahau.com) - [linkedin](https://www.linkedin.com/in/carla-hau/)
