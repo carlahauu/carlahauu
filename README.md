@@ -11,13 +11,6 @@ tdlr:
   - lead software engineer @ cutie hack 2025
 - community involvement:
   - amazon future engineer scholarship ambassador
-- recently:
-  - created [fotolab](http://fotolab.carlahau.com), an online photo booth inspired by trending apps like life4cuts, allowing users to capture and download photo strips in seconds. successfully pitched the web app at events with 100+ participants.
-    - notable collaborations:
-      - collaborated with summer olympics 2025 social event hosted by divisions and districts within key club international, including division 10 south, division 10 north, division 35 west, and kiwin’s goldstone.
-      - collaborated with the tartan seoul dance team to create branded photo strips for team members during their workshop at k-play fest oc.
-  - created [bean & do](https://beananddo.carlahau.com), a full-stack web application designed to help students stay productive using the pomodoro technique! reached 7600+ views.
-  - created an updated version of my [personal portfolio website](https://www.carlahau.com)
 
 links: [personal website](https://www.carlahau.com) - [linkedin](https://www.linkedin.com/in/carla-hau/)
 
