@@ -2,7 +2,7 @@
 
 ## nice to meet you, i'm carla hau! 👋
 
-tdlr: 
+tldr: 
 - studying cs @ uc riverside (expected graduation: june 2028)
 - work experience: 
   - sde intern @ amazon web services (aws)
