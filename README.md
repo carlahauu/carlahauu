@@ -7,10 +7,9 @@ tldr:
 - work experience: 
   - sde intern @ amazon web services (aws)
   - frontend development intern at constellation technologies (now known as the nova accelerator)
-- extracurricular activities:
-  - lead software engineer @ cutie hack 2025
 - community involvement:
   - amazon future engineer scholarship ambassador
+  - amazon campus brand ambassador 
 
 links: [personal website](https://www.carlahau.com) - [linkedin](https://www.linkedin.com/in/carla-hau/)
 
