@@ -3,9 +3,9 @@
 ## nice to meet you, i'm carla hau! 👋
 
 tldr: 
-- studying cs @ uc riverside (expected graduation: june 2028)
+- studying cs @ ucla (expected graduation: june 2028)
 - work experience: 
-  - sde intern @ amazon web services (aws)
+  - 2x sde intern @ amazon web services (aws)
   - frontend development intern at constellation technologies (now known as the nova accelerator)
 - community involvement:
   - amazon future engineer scholarship ambassador
